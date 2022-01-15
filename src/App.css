@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-color: rgb(93, 233, 252);
+}
+
+.heading{
+  display:flex;
+  justify-content:space-around;
+}
+
+.attack{
+  display:flex;
+  justify-content:start;
+}
